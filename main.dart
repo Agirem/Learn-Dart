@@ -1,3 +1,5 @@
 void main(){
-  print ('Hello World');
+  var name='Ousmane';
+  var surname='Meriga';
+  print ('My name is $name $surname');
 }
